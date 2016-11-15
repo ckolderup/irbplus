@@ -1,1 +1,1 @@
-bundle exec irb -r 'active_support/all'
+bundle exec irb -r 'active_support/all' -r 'irbtools'
